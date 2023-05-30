@@ -1,10 +1,10 @@
-# Привет, меня зовут Кирилл!
+# Hello, my name is Kirill!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий DevOps-инженер! Мой путь в it начался с образовательной платформы Нетолгия. В настоящий момент мое обучение на курсе еще не завершено, и я нахожусь в активном поиске работы, где смогу организации выйти на новый уровень и также в еще большей степени прокачать свои навыки!
+I am a огтшщк DevOps-engineer! My path to it began with the educational platform Netology. At the moment, my training on the course has not yet been completed, and I am actively looking for a job where I can take the organization to a new level and also improve my skills to an even greater extent!
 
 ---
 
@@ -14,17 +14,17 @@
 
 ---
 
-- :telescope: Учусь в Нетологии на DevOps-инженера, где активно осваиваю новые методологии
+- :telescope: I am studying in Netology as a DevOps-engineer, where I am actively mastering new methodologies
 
-- :seedling: Постоянно стремлюсь изучать новое и достигать прогресса!
+- :seedling: I constantly strive to learn new things and make progress!
 
-- :zap: За автоматизацией, обучением стоит будущее информационной и экономических сфер.
+- :zap: Automation and training are the future of information and economic spheres.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-galchonkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/galchonkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kgalchonkov@gmail.com)
+- :mailbox: Рow to contact me: [![Telegram Badge](https://img.shields.io/badge/-galchonkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/galchonkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kgalchonkov@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networkk:
 
   
    <a href="https://vk.com/id320957393" target="_blank">
@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
@@ -48,7 +48,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Instruments:
 
 <div>
   <img src="instruments/linux.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
@@ -60,7 +60,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stat:
 
 <table>
   <tr>
@@ -75,12 +75,12 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Сompleted courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/DevOps-инженер с нуля до middle                     | 10/2022 - 03/2024 |
-| netology.ru/Python для анализа данных                           | 09/2022 - 11/2022 |
+| netology.ru/DevOps-инженер from junior to middle                | 10/2022 - 03/2024 |
+| netology.ru/Python for data analyse                             | 09/2022 - 11/2022 |
 | netology.ru/Data Scientist                                      | 07/2022 - 11/2022 |
 
 
