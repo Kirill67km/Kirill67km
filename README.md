@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am a огтшщк DevOps-engineer! My path to it began with the educational platform Netology. At the moment, my training on the course has not yet been completed, and I am actively looking for a job where I can take the organization to a new level and also improve my skills to an even greater extent!
+I am a junior DevOps-engineer! My path to it began with the educational platform Netology. At the moment, my training on the course has not yet been completed, and I am actively looking for a job where I can take the organization to a new level and also improve my skills to an even greater extent!
 
 ---
 
