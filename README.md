@@ -38,7 +38,7 @@ I am a junior DevOps-engineer! My path to it began with the educational platform
 ### 💻 Technologies:
 
 <div>
-  <img src="instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="DevOps/instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
   <img src="instruments/docker.png" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="instruments/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp
   <img src="instruments/gitlab.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
