@@ -38,12 +38,12 @@ I am a junior DevOps-engineer! My path to it began with the educational platform
 ### 💻 Technologies:
 
 <div>
-  <img src="instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/docker.png" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="instruments/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp
-  <img src="instruments/gitlab.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
-  <img src="instruments/k8s.png" title="k8s" alt="k8s" width="40" height="40"/>&nbsp
-  <img src="instruments/github1.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/docker.png" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/gitlab.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/k8s.png" title="k8s" alt="k8s" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/github1.png" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -51,11 +51,11 @@ I am a junior DevOps-engineer! My path to it began with the educational platform
 ### 🛠 Instruments:
 
 <div>
-  <img src="instruments/linux.png" title="linux" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/centos.png" title="centos" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/ubuntu.png" title="ubuntu" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/virtualbox.png" title="vbbox" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/vscode.png" title="vscode" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/linux.png" title="linux" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/centos.png" title="centos" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/ubuntu.png" title="ubuntu" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/virtualbox.png" title="vbbox" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Kirill67km/DevOps/blob/main/instruments/vscode.png" title="vscode" alt="ansible" width="40" height="40"/>&nbsp
 </div>
 
 ---
