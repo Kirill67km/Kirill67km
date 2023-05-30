@@ -38,7 +38,7 @@ I am a junior DevOps-engineer! My path to it began with the educational platform
 ### 💻 Technologies:
 
 <div>
-  <img src="DevOps/instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/ansible.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
   <img src="instruments/docker.png" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="instruments/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp
   <img src="instruments/gitlab.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
@@ -51,11 +51,11 @@ I am a junior DevOps-engineer! My path to it began with the educational platform
 ### 🛠 Instruments:
 
 <div>
-  <img src="instruments/linux.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/centos.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/ubuntu.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/virtualbox.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="instruments/vscode.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/linux.png" title="linux" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/centos.png" title="centos" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/ubuntu.png" title="ubuntu" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/virtualbox.png" title="vbbox" alt="ansible" width="40" height="40"/>&nbsp
+  <img src="instruments/vscode.png" title="vscode" alt="ansible" width="40" height="40"/>&nbsp
 </div>
 
 ---
